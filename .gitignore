@@ -1,0 +1,18 @@
+# Python bytecode
+__pycache__/
+*.py[cod]
+
+# Virtual Environment
+venv/
+ENV/
+
+# PyCharm / IDEs
+.idea/
+.vscode/
+
+# Logs (including your applogs.log)
+*.log
+
+# Windows specific
+Thumbs.db
+Desktop.ini
